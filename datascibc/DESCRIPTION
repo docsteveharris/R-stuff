@@ -1,0 +1,8 @@
+Package: datascibc
+Title: Miscellaneous helper functions 
+Version: 0.1
+Authors@R: "Steve Harris <git@steveharris.me> [aut, cre]"
+Description: Miscellaneous helper functions, but with a longer term plan to share these functions with the other members of @datascibc
+Depends: R (>= 3.1.2)
+License: What license is it under? Don't know TODO: 2014-12-18 - [ ] ask Tom
+LazyData: true
